@@ -2,6 +2,7 @@
     <html lang="pt-br">
       
       <head>  
+      </head>
             <meta charset="UTF-8">
             <title>Barbearia Alura</title>
             
